@@ -1,0 +1,34 @@
+.FranceContainer{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    padding:2rem;
+}
+
+.titleFrance{
+        font-weight:600;
+        font-size:2rem;
+}
+
+.FrancePlaces{
+    padding-left:8rem;
+    padding-right:8rem;
+}
+
+.paraFrance{
+    font-size:1.2rem;
+}
+
+.imgFrance:hover{
+    transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -webkit-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    -webkit-transition:transform 1s ease-in-out;
+} 
+
+.img-wrapper-france{
+    overflow:hidden
+}

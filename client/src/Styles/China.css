@@ -1,0 +1,38 @@
+.hoverEffects:hover{
+    cursor:pointer;
+    transform:translateY(-10px);
+    -webkit-box-shadow: 0 0 20px 10px grey;
+    -moz-box-shadow: 0 0 20px 10px grey;
+    box-shadow:0 0 20px 10px grey;
+    transition: transform 0.5s;
+}
+
+
+.hoverEffects{
+    padding:0px 0px;
+    margin-right:2rem;
+    padding-bottom:2rem;
+    
+}
+
+.ChinaIMG{
+    position:absolute;
+    z-index:-1;
+}
+
+.overlayChina{
+    z-index:5;
+    color:white;
+    font-size:2rem;
+     width:96%; 
+     height:20%;
+    padding:0.5rem 1rem;
+    /* background:rgb(17, 17, 17); */
+    background:black;
+    opacity:0.3;
+    border-radius:0.5rem;
+    position:relative;
+    margin-top:1rem;
+  
+
+}

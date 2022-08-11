@@ -1,0 +1,73 @@
+h1{
+    color:white;
+    font-family:Arial, Helvetica,sans-serif;
+    margin-bottom:6px;
+}
+
+.body{
+     background-image:url(../assets/LoginPic2.jpg); 
+    background-repeat: no-repeat;
+    /* min-height:100vh;
+    min-width:100vw; */
+    background-size:cover;
+    height:100vh;
+    width:100%;
+}
+
+.signupform{
+    background:rgb(17, 17, 17);
+    opacity:0.7;
+    align-items:center;
+    margin-left:32px;
+    margin-top:50px;
+    padding: 24px 48px;
+    width:40%;
+    height:62vh;
+
+}
+
+   input[type="text"]::placeholder,
+   input[type="password"]::placeholder
+    {
+    color:grey;
+    font-weight:600;
+    font-size:24px;
+    align-items:center;
+  }
+
+  .inputLogin{
+    padding:28px 300px 28px 16px;
+    opacity: 1.0;
+    height:15%;
+    font-size:20px;
+    outline:none;
+   width:100%;
+    border-top-style:none;
+    border-left-style:none;
+    border-right-style:none;
+    border-bottom-style:2px solid black;
+   margin-bottom:10px;
+  }
+
+  .but{
+    padding:8px 16px 16px 16px;
+    background:rgb(255, 94, 0);
+    color:black;
+    font-weight:700;
+    width:100%;
+    font-size:24px;
+    opacity:1;
+    height:15%;
+    margin-bottom:0px;
+    vertical-align:middle;
+  }
+
+  .but:hover{
+    background-image:linear-gradient(to right,rgb(255, 94, 0),white);
+  }
+
+  .loginError{
+    color:red;
+    font-weight:700;
+    font-size:1.3rem;
+  }

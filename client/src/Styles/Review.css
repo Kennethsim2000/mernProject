@@ -1,0 +1,58 @@
+.dropdownReviews{
+    text-align:left;
+    color:black;
+    background:white;
+    font-weight:bold;
+}
+
+.dropdown-buttonReviews{
+    float:left;
+    margin-top:8px;
+    margin-bottom:8px;
+    left:0px;
+    margin-left:0px;
+}
+
+.iconReviews{
+    margin-left:12px;
+}
+
+.button1Reviews{
+    color:white;
+    background:rgb(192, 189, 189);
+    font-weight:bold;
+
+}
+
+.button2Reviews{
+    color:white;
+    background:grey;
+    font-weight:bold;
+}
+.headingReviews{
+    margin-top:32px;
+    font-size:32px;
+    color:black;
+}
+.reviews{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+    background:rgb(233, 229, 229);
+    margin-bottom:0;
+}
+
+.titleReviews{
+    font-weight:500;
+    color:black;
+    font-size:24px;
+    text-align:start;
+    margin-bottom:4px;
+    margin-top:8px;
+}
+
+.textReviews{
+    color:rgb(104, 100, 100);
+    margin-top:0;
+}

@@ -1,0 +1,52 @@
+.shopcart{
+    padding-left:2rem;
+    padding-right:2rem;
+   
+}
+.bookingHeading{
+    color:rgb(12, 12, 167);
+    text-align:center;
+
+}
+.booking{
+    display:flex;
+    flex-direction:row;
+    background:rgb(212, 208, 208);
+}
+.iconBook{
+    font-size:1.4rem;
+    margin-right:1rem;
+}
+.informationBook{
+    margin-left:1rem;
+    padding:1rem;
+    display:flex;
+    flex-direction:column;
+}
+
+.inlineBook{
+    margin-top:0.5rem;
+}
+
+.ratingChecked{
+    font-size:1.4rem;
+    margin-right:1rem;
+    color:orange;
+}
+
+.bookingBut{
+    margin-top:0.5rem;
+    background-color:#4CAF50;
+    border:none;
+    color:white;
+    padding:15px 32px;
+    font-size:20px;
+    width:30%;
+    font-weight:600;
+    transition-duration:0.4s;
+}
+
+.bookingBut:hover{
+    background-color:white;
+    color:black;
+}

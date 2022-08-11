@@ -1,0 +1,86 @@
+.NewZealandContainerCenter{
+    margin-top:1rem;
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    align-items:center;
+    padding:1rem 10rem 0rem
+}
+
+.NewZealandContainerStart{
+     display:flex;
+    justify-content:flex-start;
+    flex-direction:column;
+    align-items:flex-start;
+    padding:1rem 10rem 2rem;
+    font-size:1.2rem;
+}
+
+.headingNZ{
+    width:100%;
+    text-align:center;
+    border-bottom:1px solid #000;
+    line-height:0.1em;
+    margin:10px 0 20px;
+}
+
+.headingNZ span{
+    background:#fff;
+    padding:0 10px;
+}
+
+.paraNew{
+    font-weight:500;
+}
+
+.flip-container{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    perspective:1000;
+    margin-bottom:2rem;
+}
+
+.card1:hover, .card2:hover,.card3:hover,.card4:hover {
+    transform:rotateY(180deg);
+}
+
+.card1, .card2, .card3, .card4, .front, .back{
+    width:250px;
+    height:350px;
+}
+
+.card1, .card2, .card3, .card4{
+    transition: 0.5s;
+    transform-style:preserve-3d;
+    position:relative;
+    margin-right:1rem;
+}
+
+.front, .back{
+    backface-visibility:hidden;
+     position:absolute; 
+     left:0;
+}
+
+
+
+.front{
+    z-index:1;
+    transform:rotateY(0deg);
+}
+
+.back{
+    z-index:2;
+    transform:rotateY(180deg);
+    background:grey;
+    color:white;
+    padding:1rem;
+   
+}
+
+.titleNZ{
+    font-weight:600;
+    font-size:2rem;
+}
