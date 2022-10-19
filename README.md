@@ -4,7 +4,7 @@ This is a Travel website built using React, NodeJs, Express and Mongodb.
 ## HomePage
 It contains a carousel that displays popular travel destinations
 
-![image](https://user-images.githubusercontent.com/88974230/196744455-fdd3ee61-6bc0-4365-b5cc-f691dbcd1131.png)
+![image](https://user-images.githubusercontent.com/88974230/196748539-cf49b6bd-41cc-47c3-a3f7-04597ef627bf.png)
 
 This is a clickable card then on clicked will take the user to the page where more information is revealed
 
