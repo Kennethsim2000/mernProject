@@ -14,7 +14,7 @@ function ControlledCarousel() {
           className="d-block w-100"
           src={Greece}
           alt="First slide"
-          height={700}
+          height={550}
         />
         <Carousel.Caption>
           <h3 style={{color:"white", fontFamily:"sans-serif"}} >Visit Europe!</h3>
@@ -25,7 +25,7 @@ function ControlledCarousel() {
           className="d-block w-100"
           src={hotairbal}
           alt="Second slide"
-          height={700}
+          height={550}
         />
         <Carousel.Caption>
           <h3>Visit America!</h3>
@@ -36,7 +36,7 @@ function ControlledCarousel() {
           className="d-block w-100"
           src={mountain}
           alt="Third slide"
-          height={700}
+          height={550}
         />
         <Carousel.Caption>
           <h3 style={{color:"white, fontFamily: sans-serif"}}>Visit Asia!</h3>

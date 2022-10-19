@@ -22,8 +22,9 @@ const Destination = () => {
       navigate('/France');
     };
   return (
-    <div className="d-flex justify-content-around mt-lg-5 mb-lg-5">
-      <Card style={{ width: '20rem'}} className= 'card-style' role="button" onClick={navigateToChina} >
+    // <div className="d-flex justify-content-around mt-lg-5 mb-lg-5">
+    <div className="destinationContainer">
+      <Card className= 'card-style' role="button" onClick={navigateToChina} >
         {/* <Card.Link href='/China'> */}
         <Card.Img variant="top" src={China} />
         <Card.Body>
@@ -37,7 +38,7 @@ const Destination = () => {
       </Card>
 
 
-      <Card style={{ width: '20rem' }} className= 'card-style' onClick={navigateToSweden}>
+      <Card  className= 'card-style' onClick={navigateToSweden}>
         <Card.Img variant="top" src={Sweden}/>
         <Card.Body>
           <Card.Title>Sweden</Card.Title>
@@ -47,7 +48,7 @@ const Destination = () => {
         </Card.Body>
       </Card>
 
-      <Card style={{ width: '20rem' }} className= 'card-style' onClick={navigateToNewZealand}>
+      <Card  className= 'card-style' onClick={navigateToNewZealand}>
         <Card.Img variant="top" src={NewZealand} />
         <Card.Body>
           <Card.Title>New Zealand</Card.Title>
@@ -59,7 +60,7 @@ const Destination = () => {
       </Card>
 
       
-      <Card style={{ width: '20rem' }} className= 'card-style'onClick={navigateToFrance}>
+      <Card  className= 'card-style'onClick={navigateToFrance}>
         <Card.Img variant="top" src={France} />
         <Card.Body>
           <Card.Title>France</Card.Title>

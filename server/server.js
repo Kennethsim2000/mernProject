@@ -11,8 +11,8 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended:false }));
 
-// const url = "mongodb://localhost:27017/DishDB";
-const url = "mongodb+srv://kenneth2907:kenneth2907@cluster0.yc8ko.mongodb.net/?retryWrites=true&w=majority"
+const url = "mongodb://localhost:27017/DishDB";
+// const url = "mongodb+srv://kenneth2907:kenneth2907@cluster0.yc8ko.mongodb.net/?retryWrites=true&w=majority"
 //DB connection
 mongoose
   .connect(url, { useNewUrlParser: true, useUnifiedTopology: true })

@@ -1,3 +1,15 @@
+.destinationContainer {
+    display:flex;
+    justify-content:center;
+    padding-left:30px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.card-style {
+    width:300px;
+    margin-right:30px;
+}
 .card-style:hover{
     cursor:pointer;
     transform:translateY(-10px);
