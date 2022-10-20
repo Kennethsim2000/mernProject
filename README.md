@@ -36,5 +36,10 @@ If the user successfully signs in, he will be taken to the `bookings` page.
 
 ## Bookings page
 
+Bookings page to allow users to book the travel package that they are interested in.
+
+![image](https://user-images.githubusercontent.com/88974230/196989115-e3899501-066d-43c3-b8f0-6b207e06b37b.png)
+
+
 ## Signup Page
 
