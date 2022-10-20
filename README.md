@@ -1,10 +1,11 @@
 # mernProject
 This is a Travel website built using React, NodeJs, Express and Mongodb.
+The travel website is up [here](https://mern-project-eta.vercel.app/)
 
 ## HomePage
 It contains a carousel that displays popular travel destinations
 
-![image](https://user-images.githubusercontent.com/88974230/196748539-cf49b6bd-41cc-47c3-a3f7-04597ef627bf.png)
+![image](https://user-images.githubusercontent.com/88974230/196980973-2341cc35-6652-4dae-a0a5-c0f9ce6c4ae3.png)
 
 This is a clickable card then on clicked will take the user to the page where more information is revealed
 
