@@ -9,7 +9,8 @@ It contains a carousel that displays popular travel destinations
 ![image](https://user-images.githubusercontent.com/88974230/196981538-c86a04f8-525f-4722-94e6-82a60c69bb33.png)
 
 
-This is a clickable card then on clicked will take the user to the page where more information is revealed. Clicking on the China card will take the user to the `China page`
+This is a clickable card then on clicked will take the user to the page where more information is revealed. 
+Clicking on the China card will take the user to the `China page`
 
 ![image](https://user-images.githubusercontent.com/88974230/196744934-3f8b6e56-d334-4de6-ac13-bd8330245ff5.png)
 
@@ -23,13 +24,17 @@ This is a login page for users to login, which allows them to post reviews.
 
 ![image](https://user-images.githubusercontent.com/88974230/196981861-5234f6ce-44a6-4901-a098-e33126cc4f39.png)
 
-If the user **does not exist**                 
+If the user **does not exist**    
+
 ![image](https://user-images.githubusercontent.com/88974230/196984057-d0a237c6-b4f6-4ba3-86ba-f353b7c21c68.png)
 
 If the user exists but **wrong password** is inputted
+
 ![image](https://user-images.githubusercontent.com/88974230/196984298-a81a5a19-d98c-44ff-afb3-d316c156e1f1.png)
 
 If the user successfully signs in, he will be taken to the `bookings` page.
+
+## Bookings page
 
 ## Signup Page
 
