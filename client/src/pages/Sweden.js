@@ -35,9 +35,9 @@ const Sweden = () => {
     <div >
         <Navbar/>
         <div className="swedenContainer">
-            <h1 style={{ fontSize:'4rem'}}>YOUR SWEDEN TRAVEL AGENCY</h1>
+            <h1 className="swedenHeading" >YOUR SWEDEN TRAVEL AGENCY</h1>
             <br/>
-            <p style={{color:'white', fontSize:'2rem'}}>Visit Sweden to experience a mix of elegant towns, peaceful forests and pretty lakes. Book with
+            <p className="swedenPara" >Visit Sweden to experience a mix of elegant towns, peaceful forests and pretty lakes. Book with
             Travellia, and one of our local experts will arrange your trip for you. Enjoy one-to-one service,
             personal recommendations, and 24/7 support during your tour.
             </p>

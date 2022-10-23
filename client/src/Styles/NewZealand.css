@@ -1,3 +1,9 @@
+.nzHeading{
+    color:black;
+    font-weight:400;
+    font-family: 'Roboto', sans-serif;
+}
+
 .NewZealandContainerCenter{
     margin-top:1rem;
     display:flex;
@@ -33,6 +39,7 @@
     font-weight:500;
 }
 
+/*flip-container contains all the elements to flip. */
 .flip-container{
     display:flex;
     flex-direction:row;
@@ -42,15 +49,18 @@
     margin-bottom:2rem;
 }
 
+/*Each card div has a front div and a back div */
 .card1:hover, .card2:hover,.card3:hover,.card4:hover {
     transform:rotateY(180deg);
 }
 
+/*All the cards and front/back must have the same dimensions */
 .card1, .card2, .card3, .card4, .front, .back{
     width:250px;
     height:350px;
 }
 
+/*Adding animation to the cards */
 .card1, .card2, .card3, .card4{
     transition: 0.5s;
     transform-style:preserve-3d;
@@ -59,18 +69,20 @@
 }
 
 .front, .back{
-    backface-visibility:hidden;
-     position:absolute; 
-     left:0;
+    backface-visibility:hidden; 
+    position:absolute; 
+    left:0;
 }
+  /*Determines whether the back face of an element should be visible when facing the user. Backface of an 
+  element is a mirror image of the front face being displayed. Property is useful when an element is rotated. */
 
-
-
+/*Styling the front of the card */
 .front{
     z-index:1;
     transform:rotateY(0deg);
 }
 
+/*Styling the back of the card */
 .back{
     z-index:2;
     transform:rotateY(180deg);

@@ -12,7 +12,7 @@ const NewZealand = () => {
     <div>
         <Navbar/>
         <div className="NewZealandContainerCenter">
-            <h1 style={{color:'black', fontWeight:'bold'}}>NEW ZEALAND TRAVEL GUIDE</h1>
+            <h1 className="nzHeading" >NEW ZEALAND TRAVEL GUIDE</h1>
             <img src={NewZealand2} alt='Mountain' height='450rem' width='100%'/>
         </div>
         <div className="NewZealandContainerStart">

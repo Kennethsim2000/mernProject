@@ -1,3 +1,15 @@
+ .swedenHeading{
+    font-family: 'Lora', serif;
+    font-size:4rem;
+ }
+ 
+
+ .swedenPara{
+    color:rgba(10, 10, 10, 0.644);
+    font-size:1.5rem;
+    text-align:center;
+ }
+
  .swedenContainer{
     display:flex;
     flex-direction:column;
@@ -47,24 +59,23 @@
     text-align:center;
     margin-bottom:10rem;
     position:relative;
-
 }
+
+/*Controlling each div */
 .divSweden{
   display:inline-block;
     width:30%;
     padding:0;
     margin-left:0;
     margin-right:2rem;
-    margin-bottom:0.5rem;
-
- 
 }
+
  .imagesweden {
     width:100%;
 
   }
     
- 
+  /*overlay that comes up after hover. The overlay is positioned absolutely with respect to the rowSweden */
   .overlaySweden {
     position: absolute;
     bottom: 0;
@@ -84,6 +95,7 @@
     cursor:pointer;
   }
   
+  /*Determines the text in the overlay */
   .textsweden {
     color: white;
     font-size: 20px;
