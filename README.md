@@ -55,8 +55,23 @@ Sweden travel page that recommends various cities and regions to visit
 
 ![image](https://user-images.githubusercontent.com/88974230/197369217-ee1f097d-4791-480b-8c59-1f5bf84227c3.png)
 
+Showcases the various cities and regions in sweden. On hovering, a overlay will pop out which revealing the city name.
+
+![image](https://user-images.githubusercontent.com/88974230/197401225-20f120d4-676b-4fe8-abb8-93fae497910b.png)
+
 
 ## New Zealand Page
+Introduction to what to do at New Zealand
+
+![image](https://user-images.githubusercontent.com/88974230/197401541-5ff81477-42bc-48ac-a12c-eadf567584aa.png)
+
+On hover, the image flips to reveal a description.
+
+![image](https://user-images.githubusercontent.com/88974230/197401604-58b43beb-38f6-4f69-b6b0-64049d11e817.png)
+
+Contains more activities to do in New Zealand
+
+![image](https://user-images.githubusercontent.com/88974230/197401705-5b74d4e5-28ca-4ebc-b559-95bda93f2d90.png)
 
 ## France Page
 
