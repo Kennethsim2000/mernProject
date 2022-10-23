@@ -77,4 +77,13 @@ Contains **activities** to do in New Zealand
 ![image](https://user-images.githubusercontent.com/88974230/197401705-5b74d4e5-28ca-4ebc-b559-95bda93f2d90.png)
 
 ## France Page
+### France Itinery
+
+Contains **5** things to do at France
+
+![image](https://user-images.githubusercontent.com/88974230/197402865-fd8bb2d5-877f-43a4-9e04-43dd71a34c12.png)
+
+On **hover**, the image zooms in for a clearer view
+
+![image](https://user-images.githubusercontent.com/88974230/197402795-d5293844-8167-4182-9c15-116a4e709f65.png)
 
