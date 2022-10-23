@@ -51,6 +51,11 @@ Upon clicking on any of the sub cities, the user will be directed to more inform
 
 ## Sweden Page
 
+Sweden travel page that recommends various cities and regions to visit
+
+![image](https://user-images.githubusercontent.com/88974230/197369217-ee1f097d-4791-480b-8c59-1f5bf84227c3.png)
+
+
 ## New Zealand Page
 
 ## France Page
