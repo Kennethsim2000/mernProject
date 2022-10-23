@@ -47,7 +47,7 @@ Bookings page to allow users to book the travel package that they are interested
 
 Upon clicking on any of the sub cities, the user will be directed to more information and tourist attractions at that city
 
-![image](https://user-images.githubusercontent.com/88974230/196998378-971c00a3-cb4b-406f-b819-44d96efaa4ae.png)
+![image](https://user-images.githubusercontent.com/88974230/197369006-01b61fa7-8a98-4bf2-848c-267b523da4f5.png)
 
 ## Sweden Page
 
